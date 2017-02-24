@@ -29,6 +29,6 @@
 
 小伙伴们相信以下的面试题对你驾轻就熟。请对号入座 ^_^
 
-1. [UI设计](docs/dev-server-end.md)
+1. [UI设计](docs/design.md)
 1. [前端研发](docs/dev-front-end.md)
 1. [后端研发](docs/dev-server-end.md)
